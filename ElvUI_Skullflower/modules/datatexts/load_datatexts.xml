@@ -1,0 +1,6 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+<Script file='classhall.lua'/>
+<Script file='iLvl.lua'/>
+<Script file='specswitch.lua'/>
+<Script file='time.lua'/>
+</Ui>

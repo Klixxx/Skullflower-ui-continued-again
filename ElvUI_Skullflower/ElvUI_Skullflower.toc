@@ -1,0 +1,12 @@
+## Interface: 70300
+## Title: |cff1784d1ElvUI |r|cfffb4f4fSkullflower Cont. Again|r
+## Version: 1.57
+## Author: Skullflower/Vindication/Klix
+## Notes: |cfffb4f4fSkullflower's |cff1784d1ElvUI|r edit. (Currently maintained by Klix-Twisting Nether)
+## URL: http://tukui.org/ 
+## RequiredDeps: ElvUI
+
+core\load_core.xml
+media\load_media.xml
+modules\load_modules.xml
+tweaks\countdown.lua

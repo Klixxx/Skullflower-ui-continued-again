@@ -1,0 +1,11 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Include file="datatexts\load_datatexts.xml"/>
+	<Include file="datatexts\classhall.lua"/>
+	<Include file="datatexts\iLvl.lua"/>
+	<Include file='datatexts\specswitch.lua'/>
+	<Include file='datatexts\time.lua'/>
+	<Include file="unitframes\castbar.lua"/>
+	<Include file="unitframes\power.lua"/>
+	<Include file="unitframes\tags.lua"/>
+	<Include file="misc\afk.lua"/>
+</Ui>
